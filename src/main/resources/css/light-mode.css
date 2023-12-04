@@ -1,0 +1,38 @@
+.primary-color {
+    -fx-background-color: #FFFFFF;
+}
+
+.secondary-color {
+    -fx-background-color: #d2d2d2;
+}
+
+
+.button-color {
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: #000000;
+    -fx-border-radius: 100;
+}
+
+
+.Text-color {
+    -fx-text-fill: #000000;
+}
+
+.pane {
+    -fx-background-color: #c0c0c0;
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+}
+
+.tree-view .tree-cell .tree-item {
+    -fx-background-color: black;
+    -fx-stroke: black;
+    -fx-stroke-width: 1;
+    -fx-text-fill: black;
+    -fx-background-insets: 0;
+
+}
+
+.round-border {
+    -fx-background-radius: 100;
+}
